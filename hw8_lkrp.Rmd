@@ -1,0 +1,37 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FSH 549"
+author: "Liliana Rangel-Parra<br>lkrp@uw.edu"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+# Introduction
+
+## About me | Personal
+
+- born near Portland, OR
+- raised in Bay Area, CA
+- fave foods: japanese, mexican, thai, italian
+- fave animals: frogs, bearded dragons, dogs, horses
+
+## About me | Academic
+- B.S. in Biology at Appalachian State University (Boone, NC)
+
+- M.S. in Environmental and Forest Sciences at University of Washington (Seattle, WA)
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+1. GitHub in general, particularly related to reproducible science
+2. Getting more comfortable with the various uses of R Markdown
+3. Getting exposed to databases and metadata
+
+## Course topics | 3 things I'd like to learn more about
+
+1. R Markdown for publishing papers and presentations from now on
+2. Building my R package for my thesis and future chapters
+3. Code reviews and reproducible code/analyses/etc. for future group work
+
+## {data-background=images/MarkStone.png data-background-size=cover}
